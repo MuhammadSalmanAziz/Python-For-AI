@@ -12,3 +12,14 @@
 
 With support from an AI chatbot, you'll receive immediate feedback, answers to your questions, and assistance in identifying and resolving bugs, ensuring you stay on track while learning new skills.
 
+### Course Highlights
+
+- **Foundational Understanding**: Learn essential programming concepts such as variables, functions, loops, and data structures.
+- **Hands-On Projects**: Work on practical projects including:
+  - **Custom Recipe Generator**: Create a tool that generates unique recipes based on available ingredients.
+  - **Smart To-Do List**: Build an intelligent task manager that prioritizes tasks using AI.
+  - **Travel Blog Analyzer**: Develop a program that extracts key information from travel blogs.
+  - **Dream Vacation Planner**: Generate sophisticated itineraries for multi-city trips.
+  - **Data Visualization Project**: Use libraries like Matplotlib to visualize data trends.
+  - **Web Data Extraction**: Scrape web pages using BeautifulSoup for useful information.
+  - **Real-time Data Application**: Interact with APIs to fetch real-time data like weather and currency rates.
