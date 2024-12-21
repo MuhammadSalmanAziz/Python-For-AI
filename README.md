@@ -23,3 +23,11 @@ With support from an AI chatbot, you'll receive immediate feedback, answers to y
   - **Data Visualization Project**: Use libraries like Matplotlib to visualize data trends.
   - **Web Data Extraction**: Scrape web pages using BeautifulSoup for useful information.
   - **Real-time Data Application**: Interact with APIs to fetch real-time data like weather and currency rates.
+
+### Learning Outcomes
+
+By the end of this course series, you will be able to:
+- Write Python scripts that interact with large language models.
+- Automate tasks and analyze your own data.
+- Extend Python’s capabilities using popular third-party packages for data analysis and visualization.
+- Access real-time information through APIs.
