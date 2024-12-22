@@ -31,3 +31,7 @@ By the end of this course series, you will be able to:
 - Automate tasks and analyze your own data.
 - Extend Python’s capabilities using popular third-party packages for data analysis and visualization.
 - Access real-time information through APIs.
+
+## Instructor
+
+Learn directly from **Andrew Ng**, a globally recognized AI leader known for his engaging teaching style. With over 8 million students worldwide, Andrew has helped countless individuals build foundational skills in AI and machine learning.
