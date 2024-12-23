@@ -35,3 +35,7 @@ By the end of this course series, you will be able to:
 ## Instructor
 
 Learn directly from **Andrew Ng**, a globally recognized AI leader known for his engaging teaching style. With over 8 million students worldwide, Andrew has helped countless individuals build foundational skills in AI and machine learning.
+
+## Accelerated Learning with AI
+
+Experience a new kind of learning with AI chatbot integration. This intelligent assistant helps you write, test, and debug code, providing instant feedback and personalized guidance. The rise of AI tools has made learning coding skills more accessible and beneficial for everyone.
